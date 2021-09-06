@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Noto+Sans+KR:wght@100;300&display=swap');
+
+header a {
+	font-family: 'Allison', cursive;
+}
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+}
